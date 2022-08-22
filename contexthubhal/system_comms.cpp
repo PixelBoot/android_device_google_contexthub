@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+#include <fcntl.h>
+
 #define LOG_TAG "NanohubHAL"
 
 #include "file.h"

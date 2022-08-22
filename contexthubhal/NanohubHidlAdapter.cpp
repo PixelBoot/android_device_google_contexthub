@@ -21,6 +21,8 @@
   * support endpoints.
   */
 
+#include <fcntl.h>
+
 #include "NanohubHidlAdapter.h"
 #include "nanohub_perdevice.h"
 
